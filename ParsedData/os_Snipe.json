@@ -1,0 +1,5 @@
+{
+    "Buff_SnipeFire_SSR_Level0_Resonance_OS_des": "Flame Resonance: Increase flame ATK by 15% and flame resistance by 25%. Activate by equipping 2 or more flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
+    "Buff_SnipeFire_SSR_Level0_OS_des": "Flame Resonance: Increase flame ATK by 15% and flame resistance by 25%. Activate by equipping 2 or more flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\nTranquil Heart: Using discharge/skills/charged attacks/dodging with Clover Cross increases Clover Cross' final crit rate by 5% for 15 seconds, stacking up to 3 times. After the crit rate exceeds 100%, 50% of the extra amount will be converted into crit damage, up to 7.5%.",
+    "Buff_SnipeFire_SSR_Level0_Resonance_OS_name": "Flame Resonance"
+}
