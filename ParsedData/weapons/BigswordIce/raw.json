@@ -1,0 +1,31 @@
+{
+    "weapon": {
+        "Buff_BigswordIce_Level1_des": "Increase shatter by 15% and restore 10% of HP after shattering the target's shield.",
+        "Buff_BigswordIce_Level3_1_des": "Gain an Ice Shield equal to 10% of Max HP for 10 seconds.",
+        "Buff_BigswordIce_Level3_1_name": "Ice Shield",
+        "Buff_BigswordIce_Level3_2_des": "Ice Shield Cooldown: 20 seconds.",
+        "Buff_BigswordIce_Level3_2_name": "Ice Shield: Cooldown",
+        "Buff_BigswordIce_Level3_des": "Upon switching to the weapon, gain an Ice Shield equal to 10% of Max HP. Cooldown: 20 seconds. The Ice Shield lasts up to 10 seconds.",
+        "Buff_BigswordIce_Level5_des": "Increase damage and shatter by 50% while the shield is active.",
+        "Buff_BigswordIce_Level6_1_des": "Gain an Ice Shield equal to 20% of Max HP for 10 seconds.",
+        "Buff_BigswordIce_Level6_1_name": "Ice Shield",
+        "Buff_BigswordIce_Level6_2_des": "Ice Shield Cooldown: 20 seconds.",
+        "Buff_BigswordIce_Level6_2_name": "Ice Shield: Cooldown",
+        "Buff_BigswordIce_Level6_des": "Upon switching to the weapon, gain an Ice Shield equal to 20% of Max HP and immune to controls when shield is active. Cooldown: 20 seconds. The Ice Shield lasts up to 10 seconds.",
+        "Buff_BigswordIce_SSR_Level0_1_des": "Gain a frost shield equal to 10% of the Wanderer's Max HP for 10 seconds.",
+        "Buff_BigswordIce_SSR_Level0_1_name": "Ice Shield",
+        "Buff_BigswordIce_SSR_Level0_des": "Switching to this weapon grants a shield equal to 10% of Max HP that lasts up to 10 seconds. Cooldown: 60 seconds.",
+        "Buff_BigswordIce_SSR_Level1_des": "When equipped with 2 or more defense-type weapons, reduce damage received by 5%. Take effect immediately and stack with multiple weapons. Effect and aggro are both increased when playing in a team.",
+        "Buff_BigswordIce_SSR_Level2_1_des": "Upon switching to the weapon, gain a Frost Shield equal to 20% of Max HP for 10 seconds and immunity to hitstun. Cooldown: 60 seconds.",
+        "Buff_BigswordIce_SSR_Level2_1_name": "Ice Shield",
+        "Buff_BigswordIce_SSR_Level2_des": "Upon switching to the weapon, gain a Frost Shield equal to 20% of Max HP for 10 seconds and immunity to hitstun. Cooldown: 60 seconds.",
+        "Buff_BigswordIce_SSR_Level3_des": "Reduce frost damage received by 10%.",
+        "Buff_BigswordIce_SSR_Level4_1_des": "Upon switching to the weapon, gain a Frost Shield equal to 20% of Max HP for 10 seconds and immunity to hitstun and control. Also, increase final damage by 30%. Cooldown: 60 seconds.",
+        "Buff_BigswordIce_SSR_Level4_1_name": "Ice Shield",
+        "Buff_BigswordIce_SSR_Level4_des": "Grant immunity to control effects and increase final damage by 30% while shield is active.",
+        "Buff_BigswordIce_SSR_Level5_1_des": "Increase frost damage received by 20% for 15 seconds.",
+        "Buff_BigswordIce_SSR_Level5_1_name": "Frost Wounds",
+        "Buff_BigswordIce_SSR_Level5_des": "Targets hit by discharge skills take an additional 20% frost damage for the next 15 seconds."
+    },
+    "matrix": {}
+}

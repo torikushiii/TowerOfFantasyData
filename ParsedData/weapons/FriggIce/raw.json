@@ -1,0 +1,12 @@
+{
+    "weapon": {
+        "Buff_FriggIce_SSR_Level0_des": "After unleashing Fimbulwinter, a large Frost Domain will be formed around the Wanderer for 25 seconds. Dodge attempts will not be consumed while dodging with Balmung within the Frost Domain.\r\nGain Domain of Frost I when you are in the Frost Domain: When using a frost weapon, increase frost ATK by 15% and shatter by 25%.",
+        "Buff_FriggIce_SSR_Level1_des": "Gain 1 frostiness point every time you deal 550% × frost ATK of damage in the Frost Domain. Up to 10 frostiness points can be accumulated.\r\nWhen the Frost Domain ends, frostiness points × frost ATK × 95% of blast damage will be dealt to all enemies in the Frost Domain. After leaving the Frost Domain, lose 1 frostiness point every 3 seconds.",
+        "Buff_FriggIce_SSR_Level3_des": "Increase frostiness limit to 15. When using discharge skills of frost weapons in the Frost Domain, deal damage equal to 25% of frost ATK × (current frostiness + 5) to all the targets in the Frost Domain.",
+        "Buff_FriggIce_SSR_Level3_des_OS": "Increase frostiness limit to 15. When using discharge skills of frost weapons in the Frost Domain, deal damage equal to 25% of frost ATK × (current frostiness + 5) to all the targets in the Frost Domain.",
+        "Buff_FriggIce_SSR_Level5_des": "When shattering a shield with a frost weapon in the Frost Domain, freeze the target for 2 seconds and deal additional damage equal to frostiness × 35% of frost ATK. If the target cannot be frozen, the additional damage dealt is doubled.",
+        "Buff_FriggIce_SSR_Level6_des": "When frostiness reaches 15 points and you are in the Frost Domain, you will additionally gain Domain of Frost II: Increase frost ATK by 25% when frost weapons are used.",
+        "Buff_FriggIce_SSR_Level6_des_OS": "When frostiness reaches 15 points and you are in the Frost Domain, you will get an additional \"Domain of Frost II\" that increases frost ATK by 25% when frost weapons are used."
+    },
+    "matrix": {}
+}

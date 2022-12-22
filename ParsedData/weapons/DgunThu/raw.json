@@ -1,0 +1,9 @@
+{
+    "weapon": {
+        "Buff_DgunThu_Level1_des": "Trigger an electrical explosion on the target after landing a critical hit, dealing additional damage equal to 30% of ATK to the target and nearby enemies. Cooldown: 0.2 seconds.",
+        "Buff_DgunThu_Level3_des": "Increase crit rate to electrified targets by 40%. Electrical explosions extend the duration of electrified effects by 0.5 seconds, up to a maximum of 5 seconds.",
+        "Buff_DgunThu_Level5_des": "Double the duration of Electro Field and pull targets into the center of the attack.",
+        "Buff_DgunThu_Level6_des": "Triggering an electrical explosion reduces skill cooldowns by 1 second."
+    },
+    "matrix": {}
+}

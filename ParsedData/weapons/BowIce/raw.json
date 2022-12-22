@@ -1,0 +1,20 @@
+{
+    "weapon": {
+        "Buff_BowIce_Level1_2_des": "Each stack adds 8% damage. The effect can be stacked up to 3 times and lasts for 15 seconds.",
+        "Buff_BowIce_Level1_2_des_OS": "Each stack adds 5% damage. The effect can be stacked up to 3 times and lasts for 15 seconds.",
+        "Buff_BowIce_Level1_2_name": "Sharp Arrow",
+        "Buff_BowIce_Level1_des": "Grant a stack of Sharp Arrow each time the arrow fired by a Dodge attack hits a target. Each stack increases damage by 8% for 15 seconds. Stack up to 3 times.",
+        "Buff_BowIce_Level3_des": "Launching a Dodge attack fires 3 Charged Arrows.",
+        "Buff_BowIce_Level5_1_des": "Reduce speed by 50%.",
+        "Buff_BowIce_Level5_1_name": "Slow",
+        "Buff_BowIce_Level5_des": "Double duration of Arrow Rain and slow targets by 25%.",
+        "Buff_BowIce_Level6_2_des": "Each stack adds 8% damage. The effect can be stacked up to 5 times and lasts for 15 seconds.",
+        "Buff_BowIce_Level6_2_des_OS": "Each stack adds 5% damage. The effect can be stacked up to 5 times and lasts for 15 seconds.",
+        "Buff_BowIce_Level6_2_name": "Sharp Arrow",
+        "Buff_BowIce_Level6_des": "Sharp Arrow stacks up to 5 times. Hitting a target with a Charged Arrow immediately grants 3 stacks. Headshots grant 5 stacks.",
+        "Buff_BowIce_SSR_Level0_1_des": "Sharp Arrow II: Increase final damage by 4% for 15 seconds. Stack up to 3 times.",
+        "Buff_BowIce_level1_des_OS": "Grant a stack of Sharp Arrow each time the arrow fired by a Dodge attack hits a target. Each stack increases damage by 5% for 15 seconds. Stack up to 3 times.",
+        "WeaponType_Trait_SSR_BowIce": "DPS/Frost"
+    },
+    "matrix": {}
+}

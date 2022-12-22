@@ -1,0 +1,18 @@
+{
+    "weapon": {
+        "Buff_CubeFire_Level1_des": "Deal damage and produce a healing orb, which lasts for 20 seconds and restore HP of any teammate who picks it up equal to 60% of ATK. 2-second cooldown.",
+        "Buff_CubeFire_Level3_des": "Reduce skill cooldown from 60 seconds to 30 seconds. Restore HP equal to 30% of ATK every second while the shield is active.",
+        "Buff_CubeFire_Level5_OS_des": "Damaging a target also produces a damage orb, which lasts for 20 seconds and increases all damage and healing of any teammate who picks it up by 2% for 30 seconds. Stack up to 10 times. Skill cooldown is 2.5 seconds.",
+        "Buff_CubeFire_Level5_des": "Damaging a target also produces a damage orb, which lasts for 20 seconds and increases the damage of the teammate who picks it up by 2% for 45 seconds. Stack up to 10 times. Skill cooldown is 2.5 seconds.",
+        "Buff_CubeFire_Level6_des": "Using a Skill grants allies healing orbs and damage orbs equal to the number of Omnium Cubes.",
+        "Buff_CubeFire_SSR_Level0": "Grant 1 Omnium Cube after 6 successful normal attacks on a target, can hold up to 5 Omnium Cubes at a time.",
+        "Buff_CubeFire_SSR_Level1": "When equipped with 2 or more support-type weapons, increase healing effect by 5%. Take effect immediately and stack with multiple weapons. Effect is increased when playing in a team.",
+        "Buff_CubeFire_SSR_Level2": "Damaging a target has a 20% chance to spawn a healing orb near their location for 20 seconds. Heal any teammate who picks it up by 60% of ATK.",
+        "Buff_CubeFire_SSR_Level3": "Reduce skill cooldown from 60 seconds to 30 seconds.",
+        "Buff_CubeFire_SSR_Level4": "Damaging a target has a 20% chance to spawn a damage orb near their location for 20 seconds. Increase final damage of any teammate who picks it up by 1.5% for 45 seconds. Stack up to 10 times.",
+        "Buff_CubeFire_SSR_Level4Dam_OS_des": "Increase all damage and healing by 2% per stack for 30 seconds. Stack up to 10 times.",
+        "Buff_CubeFire_SSR_Level5": "Restore HP equal to 30% of ATK every second while the shield is active.",
+        "WeaponType_Trait_SSR_CubeFire": "Support/Flame"
+    },
+    "matrix": {}
+}

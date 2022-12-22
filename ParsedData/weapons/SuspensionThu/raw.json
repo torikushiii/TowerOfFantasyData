@@ -1,0 +1,13 @@
+{
+    "weapon": {
+        "Buff_SuspensionThu_SSR_Level0_des": "Volt Resonance: Increase volt ATK by 20% and volt resistance by 40%. Activate by equipping 2 or more volt weapons. This set effect also works with weapons in the off-hand slot.",
+        "Buff_SuspensionThu_SSR_Level0_name": "Volt Resonance",
+        "Buff_SuspensionThu_SSR_Level1_des": "After using Pulse Lock or Particle Beam Burst, creates 1 Electrode that immediately grants the user 5 stacks of Healing Chain Enhance. In addition, unleash a Healing Chain that heals nearby allies by 135% of the Wanderer's ATK.",
+        "Buff_SuspensionThu_SSR_Level3_des": "Every 4.5 seconds, the Electrode will unleash Ring Lightning, which deals damage equal to a maximum of 389% of ATK in a target area.",
+        "Buff_SuspensionThu_SSR_Level3_des_OS": "Every 6 seconds, the Electrode will unleash Ring Lightning, which deals area damage equal to a maximum of 205% of ATK.",
+        "Buff_SuspensionThu_SSR_Level5_OS_des": "After using Pulse Lock, increase the Wanderer's ATK by (5 + (Number of Electrodes ×5))% for 25 seconds.",
+        "Buff_SuspensionThu_SSR_Level5_des": "After using Pulse Lock, increase the Wanderer's volt ATK by (10 + (Number of Electrodes ×10))% for 25 seconds.",
+        "Buff_SuspensionThu_SSR_Level6_des": "Up to 2 Electrodes can be active at the same time. Summoning more Electrodes will replace the ones furthest from the user."
+    },
+    "matrix": {}
+}

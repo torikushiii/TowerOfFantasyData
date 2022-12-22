@@ -1,0 +1,17 @@
+{
+    "weapon": {
+        "Actor_GE_Buff_StavesIce_SSR_Level6_2_OS_des": "Increase all damage and healing by 15% when around a Healing Bee.",
+        "Actor_GE_Buff_StavesIce_SSR_Level6_2_des": "Increase ATK by 15% when around a Healing Bee.",
+        "Actor_GE_Buff_StavesIce_SSR_Level6_2_name": "6-Star Absolute Zero",
+        "Buff_StavesIce_SSR_Level0_des": "Each attack fires 2 Energy Missiles at the target, dealing additional damage.",
+        "Buff_StavesIce_SSR_Level1_des": "After dodging, summon a healing bee that follows the user and heals the ally with the lowest percentage of HP within 15 meters. Heal for 25% of ATK and restore 50 weapon charge points each time and last for 25 seconds. Cooldown: 25 seconds.",
+        "Buff_StavesIce_SSR_Level2_des": "None",
+        "Buff_StavesIce_SSR_Level3_des": "Use Sanctuary or discharge skills to remove debuffs from targets, can be used while being affected by control effects. Increase shatter and damage dealt for all teammates within range by 20%, and grant them immunity to control effects and shatter.",
+        "Buff_StavesIce_SSR_Level4_des": "None",
+        "Buff_StavesIce_SSR_Level5_des": "Increase healing effect by 15%, plus an additional 20% when healing targets with less than 60% HP.",
+        "Buff_StavesIce_SSR_Level6_OS_des": "Whenever a healing bee is summoned or disappears from battle, heal all allies for 100% of the user's ATK. All allies within 10 meters of the healing bee also gain 15% all damage and healing boost (cannot stack).",
+        "Buff_StavesIce_SSR_Level6_des": "Whenever a healing bee is summoned or disappears from battle, heal all allies for 100% of the user's ATK. All allies within 10 meters of the healing bee also gain 15% damage boost. This effect cannot stack.",
+        "WeaponType_Trait_SSR_StavesIce": "Support/Frost"
+    },
+    "matrix": {}
+}

@@ -1,0 +1,27 @@
+{
+    "weapon": {
+        "Buff_SwordPhy_Phy_Resonance_Overseas_des": "Physical Resonance: Increase physical ATK by 15% and physical resistance by 25%. Activate by equipping 2 or more physical-damage weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
+        "Buff_SwordPhy_Phy_Resonance_Overseas_name": "Physical Resonance",
+        "Buff_SwordPhy_SSR_Level0_des": "Every 10 combos (a single attack that hits multiple targets counts as 1 attack, successful attacks made within 5 seconds count as combos) grant a stack of the following buff: Increase final damage dealt by 5% for 25 seconds (stack up to 3 times, combos made after reaching 3 stacks will refresh the buff's duration).",
+        "Buff_SwordPhy_SSR_Level1_DamageUp_des": "Increase damage dealt by ???% for ??? seconds. The effect can be stacked up to 3 times for a maximum of 1 stack per skill use.",
+        "Buff_SwordPhy_SSR_Level1_DamageUp_name": "Damage Boost",
+        "Buff_SwordPhy_SSR_Level1_des": "After hitting a target with a skill or discharge skill, grant 1 stack of the following buff: Increase damage dealt by ???% for ??? seconds, stacking up to 3 times for a maximum of 1 stack per skill use.",
+        "Buff_SwordPhy_SSR_Level2_des": "None",
+        "Buff_SwordPhy_SSR_Level3_BeDamageUp_des": "Increase incoming physical damage and shatter for physical weapons by ???% for ??? seconds. Stack up to 1 time.",
+        "Buff_SwordPhy_SSR_Level3_BeDamageUp_name": "War Wounds",
+        "Buff_SwordPhy_SSR_Level3_des": "When hitting a target with a skill or discharge skill, apply 1 stack of War Wounds to the target: Increase incoming physical damage and shatter from physical weapons by ???% for ??? seconds. Stack up to 1 time.",
+        "Buff_SwordPhy_SSR_Level4_des": "None",
+        "Buff_SwordPhy_SSR_Level5_OS_des": "Hitting targets with skills or discharge skills grants damage boost, which increases all damage by 20% for 25 seconds. This effect does not stack.",
+        "Buff_SwordPhy_SSR_Level5_SkillDamageUp_OS_des": "Increase skill damage by 20% for 25 seconds.",
+        "Buff_SwordPhy_SSR_Level5_SkillDamageUp_OS_name": "Damage Boost",
+        "Buff_SwordPhy_SSR_Level5_SkillDamageUp_des": "Increase skill damage of all weapons by ???% for ??? seconds.",
+        "Buff_SwordPhy_SSR_Level5_SkillDamageUp_name": "Skill Damage Boost",
+        "Buff_SwordPhy_SSR_Level5_des": "Hitting targets with skills or discharge skills grants Skill Damage Boost, which increases all weapon skill damage by ???% for ??? seconds. This effect cannot be stacked.",
+        "Buff_SwordPhy_SSR_Level6_BeDamageUp_des": "Increase incoming physical damage and shatter from physical weapons by ???% for ??? seconds. Stacks up to 2 times.",
+        "Buff_SwordPhy_SSR_Level6_BeDamageUp_name": "War Wounds II",
+        "Buff_SwordPhy_SSR_Level6_des": "Skills hitting the same target no longer have reduced damage. After using Guren Blade's skills or discharge skill, all targets with War Wounds within 8 meters gain another 1 stack of War Wounds.",
+        "WeaponType_Trait_SR_BigSwordPhy": "Melee / Tank / Physical",
+        "WeaponType_Trait_SSR_SwordPhy": "DPS/Physical"
+    },
+    "matrix": {}
+}
