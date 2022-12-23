@@ -1,0 +1,23 @@
+{
+    "weapon": {
+        "Buff_FunnelFire_Level0_Energy_des": "Grant up to 8 points of Heat. Gain the Ultimate Heat effect when at max Heat. Heat points will be cleared when Sparks disappears.",
+        "Buff_FunnelFire_Level0_Energy_name": "Heat",
+        "Buff_FunnelFire_Level0_FireDamAdd_des": "Increase flame ATK by ???% for 25 seconds.",
+        "Buff_FunnelFire_Level0_FireDamAdd_name": "Ultimate Heat",
+        "Buff_FunnelFire_SSR_Level0_Tubiao_des": "Increase flame ATK by 20% and flame resistance by 40%. Activate by equipping 2 or more flame weapons. This set effect also works with weapons in the off-hand slot.",
+        "Buff_FunnelFire_SSR_Level0_Tubiao_name": "Flame Resonance",
+        "Buff_FunnelFire_SSR_Level0_des": "Flame Resonance: Increase flame ATK by 20% and flame resistance by 40%. Activate by equipping 2 or more flame weapons. This set effect also works with weapons in the off-hand slot.",
+        "Buff_FunnelFire_SSR_Level1_des": "Emblazen boosts the damage of Spark Attack to ???%. Skill cooldown drops to 24 seconds.",
+        "Buff_FunnelFire_SSR_Level2_des": "Increase the current weapon's base ATK growth by 16%.",
+        "Buff_FunnelFire_SSR_Level3_1_des": "When Emblazen is active, flame damage received increases by ???%.",
+        "Buff_FunnelFire_SSR_Level3_1_name": "Flame Vulnerability",
+        "Buff_FunnelFire_SSR_Level3_2_des": "When Ultimate Heat is active, shatter increases by 25%.",
+        "Buff_FunnelFire_SSR_Level3_2_name": "Shatter Boost",
+        "Buff_FunnelFire_SSR_Level3_des": "Emblazen increases flame boost by ???% and the burn multiplier to 150%.",
+        "Buff_FunnelFire_SSR_Level3_des_OS": "Emblazen increases flame boost by ???% and the burn multiplier to 75%.",
+        "Buff_FunnelFire_SSR_Level4_des": "Increase the current weapon's base ATK growth by 32%.",
+        "Buff_FunnelFire_SSR_Level5_des": "Restore an additional 75 points of weapon charge each time Spark Attack hits an enemy. Cooldown: 0.9 seconds. Shatter increases by 25% when Ultimate Heat is active.",
+        "Buff_FunnelFire_SSR_Level6_des": "Emblazen boosts the damage of Spark Attack to ???% and doubles Heat acquisition efficiency. Skill cooldown drops to 16 seconds."
+    },
+    "matrix": {}
+}

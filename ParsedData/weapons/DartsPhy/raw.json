@@ -1,0 +1,19 @@
+{
+    "weapon": {
+        "Buff_DartsPhy_SSR_Level0_des": "After dodging or using a skill, the next normal attack in 3 seconds has a 100% chance to become a crit hit.",
+        "Buff_DartsPhy_SSR_Level1_des": "Increase damage dealt to and all elemental shattering effects on targets within Full Bloom's range by 30%.",
+        "Buff_DartsPhy_SSR_Level2_des": "None",
+        "Buff_DartsPhy_SSR_Level3_DownCD_30s_des": "Reset all weapon skill cooldowns upon shattering the target's shield. Can only be triggered once every 30 seconds.",
+        "Buff_DartsPhy_SSR_Level3_DownCD_30s_name": "Chakram of the Seas: 3-star effect",
+        "Buff_DartsPhy_SSR_Level3_des": "Increase shatter by 15% and reset all weapon skill cooldowns upon shattering the target's shield. Can only be triggered once every 30 seconds.",
+        "Buff_DartsPhy_SSR_Level4_30Ceng_des": "Gain 1 stack of refinement via crit. At 30 stacks, clear the cooldown for Full Bloom. Interval of triggering the effect is 0.5 seconds.",
+        "Buff_DartsPhy_SSR_Level4_30Ceng_name": "4-Star Full Moon Advancement",
+        "Buff_DartsPhy_SSR_Level4_des": "None",
+        "Buff_DartsPhy_SSR_Level5_SkillDamageUp_des": "Increase damage of Full Bloom by 10%. The effect can be stacked up to 3 times and lasts for 15 seconds.",
+        "Buff_DartsPhy_SSR_Level5_SkillDamageUp_name": "5-Star Full Moon Advancement",
+        "Buff_DartsPhy_SSR_Level5_des": "Attacking a grievous target extends the duration of grievous by an additional 7 seconds (only take effect once for the same effect).",
+        "Buff_DartsPhy_SSR_Level6_des": "After using Full Bloom, grant a 100% crit chance for the next 8 seconds.",
+        "WeaponType_Trait_SSR_DartsPhy": "DPS/Physical/Ranged"
+    },
+    "matrix": {}
+}

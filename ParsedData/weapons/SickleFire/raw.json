@@ -1,0 +1,19 @@
+{
+    "weapon": {
+        "Buff_SickleFire_SSR_Level0_1_des": "Increase final damage by 10% for 30 seconds. The effect can be stacked up to 3 times.",
+        "Buff_SickleFire_SSR_Level0_1_name": "Damage Boost",
+        "Buff_SickleFire_SSR_Level0_des": "After attacking 3 or more enemies at once, grant damage boost. Increase final damage by 10% for 30 seconds. Stack up to 3 times.",
+        "Buff_SickleFire_SSR_Level1_1_des": "Increase final damage by 10% for 30 seconds.",
+        "Buff_SickleFire_SSR_Level1_1_name": "Shatter Damage Boost",
+        "Buff_SickleFire_SSR_Level1_des": "Increase shatter by 15%. After shattering the target's shield, deal burn damage equal to 120% of ATK to the target every second for 15 seconds.",
+        "Buff_SickleFire_SSR_Level2_des": "None",
+        "Buff_SickleFire_SSR_Level3_des": "Increase damage dealt by 10% for each enemy within 6 meters, up to a maximum of 30%.",
+        "Buff_SickleFire_SSR_Level4_des": "None",
+        "Buff_SickleFire_SSR_Level5_des": "Increase damage dealt against HP shields or shielded enemies by 100%.",
+        "Buff_SickleFire_SSR_Level6_DamageUp_des": "Increase damage dealt by 10% for each target defeated. The effect lasts for 30 seconds and can be stacked up to 3 times.",
+        "Buff_SickleFire_SSR_Level6_DamageUp_name": "Power of Calamity",
+        "Buff_SickleFire_SSR_Level6_des": "Increase damage dealt by 10% for each enemy slain for 30 seconds. Stack up to 3 times.",
+        "WeaponType_Trait_SSR_SickleFire": "DPS/Flame"
+    },
+    "matrix": {}
+}

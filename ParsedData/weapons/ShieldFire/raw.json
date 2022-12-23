@@ -1,0 +1,17 @@
+{
+    "weapon": {
+        "Buff_ShieldFire_SSR_Level1_des": "Gain a stack of Strong Shield upon using discharge: Seething Rage. Using a dodge skill or branch skill while in shield form grants a stack of Strong Shield, which grants 10% damage reduction for 15 seconds and stacks up to 3 times. Switching to axe form converts all Strong Shield stacks to Sharp Axe stacks, each of which increases damage by 15% for 15 seconds. Switching to a different weapon cancels this effect.",
+        "Buff_ShieldFire_SSR_Level2_des": "None",
+        "Buff_ShieldFire_SSR_Level3_des": "While in shield form, branch/dodge attacks deal additional damage to targets equal to 4% of the user's current HP.",
+        "Buff_ShieldFire_SSR_Level4_des": "None",
+        "Buff_ShieldFire_SSR_Level5_CD_des": "Cooldown: 30 seconds.",
+        "Buff_ShieldFire_SSR_Level5_CD_name": "5-Star Molten Shield V2: Cooldown",
+        "Buff_ShieldFire_SSR_Level5_Effect_des": "After switching to a shield axe, immediately grant 30% damage reduction that diminishes by 10% every 3 seconds, down to a minimum of 10%. Switching weapons cancels this effect. Cooldown: 30 seconds.",
+        "Buff_ShieldFire_SSR_Level5_Effect_name": "5-Star Molten Shield V2: Effect",
+        "Buff_ShieldFire_SSR_Level5_Start_Breakfate_des": "After switching to a shield axe, immediately grant 15% damage reduction that diminishes by 5% every 3 seconds, down to a minimum of 5%. Switching weapons cancels this effect. Cooldown: 30 seconds.",
+        "Buff_ShieldFire_SSR_Level5_des": "After switching to a shield axe, immediately grant 30% damage reduction that diminishes by 10% every 3 seconds, down to a minimum of 10%. Switching weapons cancels this effect. Cooldown: 30 seconds.",
+        "Buff_ShieldFire_SSR_Level6_des": "Enhance conversion skills.\r\nShield Conversion Enhancement: Increases damage dealt by 60% and expands the radius of the flame zone by 30%.\r\nAxe Conversion Enhancement: Does not share cooldown with Shield Conversion. For the next 5 seconds after using this skill, turns all damage received into HP (up to a maximum of 15% of the user's Max HP).",
+        "Buff_ShieldFire_SSR_Level6_name": "Weapon Enhancement"
+    },
+    "matrix": {}
+}

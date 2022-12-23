@@ -1,0 +1,29 @@
+{
+    "weapon": {
+        "Buff_GunFire_Flame_Resonance_Overseas_des": "Flame Resonance: Increase flame ATK by 15% and flame resistance by 25%. Activate by equipping 2 or more flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
+        "Buff_GunFire_Flame_Resonance_Overseas_name": "Flame Resonance",
+        "Buff_GunFire_Level1_des": "Each round of Barrage deals additional damage equal to ???% of the target's current HP (cannot exceed ???% of ATK).",
+        "Buff_GunFire_Level3_1_des": "Deal flame damage equal to ???% of ATK every second for ??? seconds.",
+        "Buff_GunFire_Level3_1_name": "Ion Scorch",
+        "Buff_GunFire_Level3_des": "Heavy Bombardment, dodge attack, and Close Quarters inflict Ion Scorch on targets that are already burned, dealing flame damage equal to ???% of their current ATK every second for ??? seconds.",
+        "Buff_GunFire_Level3_des_OS": "Heavy Bombardment branch skill and Close Quarters dodge attack inflict Ion Scorch on targets that are already burned, dealing flame damage equal to 40% of ATK every second for 10 seconds.",
+        "Buff_GunFire_Level5_1_des": "Deal flame damage equal to ???% of ATK every second for ??? seconds.",
+        "Buff_GunFire_Level5_1_name": "Ion Scorch",
+        "Buff_GunFire_Level5_des": "The damage from Ion Scorch increases to ???% of ATK. Successful attacks with any weapon's dodge skill will refresh the duration of Ion Scorch.",
+        "Buff_GunFire_Level5_des_OS": "The damage from Ion Scorch increases to 60% of ATK. Successful attacks with any weapon's dodge skill will refresh the duration of Ion Scorch.",
+        "Buff_GunFire_Level6_des": "Barrage has a ???-second burn effect. Successful attacks with any weapon's dodge skill reduce the cooldown of Barrage by 4 seconds. Effect cooldown: ??? seconds. The DoT from the dodge skill also triggers cooldown reduction.",
+        "Buff_GunFire_Level6_des_OS": "Barrage has a 15-second burning effect. Successful attacks with any weapon's dodge skill reduces the cooldown of Barrage by 4 seconds. The cooldown of the effect: 1.5 seconds. The DoT burn from the dodge skill also triggers a cooldown reduction effect.",
+        "Buff_GunFire_SSR_Level0_des": "Increase endurance regen speed by 40%.",
+        "Buff_GunFire_SSR_Level1_des": "When equipped with 2 or more DPS-type weapons, deal an additional 10% final damage to targets with more than 50% HP. Take effect immediately and stack with multiple weapons. Effect is boosted when playing in a team.",
+        "Buff_GunFire_SSR_Level2_1_des": "If Dodge Attack hits a target with Firearm Mark, restore 1 stack of dodge.",
+        "Buff_GunFire_SSR_Level2_1_name": "Firearm Mark",
+        "Buff_GunFire_SSR_Level2_des": "The last hit of normal attacks applies a Firearm Mark on the target. Hitting the marked target with a Dodge attack restores 1 dodge attempt.",
+        "Buff_GunFire_SSR_Level3_des": "Increase bombardment damage by 30%.",
+        "Buff_GunFire_SSR_Level4_des": "Hitting a target with more than 60% HP has a 100% chance to apply a Firearm Mark.",
+        "Buff_GunFire_SSR_Level5_1_des": "Increase flame damage dealt by 2% for each target hit, up to 20% in total. The effect lasts for 30 seconds.",
+        "Buff_GunFire_SSR_Level5_1_name": "Flame Damage Boost",
+        "Buff_GunFire_SSR_Level5_des": "Increase flame damage dealt by 2% for each target hit, up to 20% in total. The effect lasts for 30 seconds.",
+        "WeaponType_Trait_SSR_GunFire": "DPS/Flame/Ranged"
+    },
+    "matrix": {}
+}
