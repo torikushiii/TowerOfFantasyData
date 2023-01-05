@@ -1,6 +1,6 @@
 {
     "weapon": {
-        "Buff_DsThu_SSR_Level1_des": "Attacking targets from behind increases crit rate of all dual blades attacks by 40%. Backstabbing an electrified target increases crit rate by 100% and crit damage by 30%.",
+        "Buff_DsThu_SSR_Level1_des": "Attacking targets from behind increases crit rate of all dual blade attacks by 40%. Backstabbing an electrified target increases crit rate by 100% and crit damage by 30%.",
         "Buff_DsThu_SSR_Level3_des": "Increase damage by 30% to targets with less than 60% HP.",
         "Buff_DsThu_SSR_Level5_Crit4S": "Attacks are guaranteed to crit and increase crit damage by 50% for 4 seconds.",
         "Buff_DsThu_SSR_Level5_Damage_des": "Increase damage by 20%.",

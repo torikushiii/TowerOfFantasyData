@@ -13,8 +13,8 @@
         "Buff_FunnelFire_SSR_Level3_1_name": "Flame Vulnerability",
         "Buff_FunnelFire_SSR_Level3_2_des": "When Ultimate Heat is active, shatter increases by 25%.",
         "Buff_FunnelFire_SSR_Level3_2_name": "Shatter Boost",
-        "Buff_FunnelFire_SSR_Level3_des": "Emblazen increases flame boost by ???% and the burn multiplier to 150%.",
-        "Buff_FunnelFire_SSR_Level3_des_OS": "Emblazen increases flame boost by ???% and the burn multiplier to 75%.",
+        "Buff_FunnelFire_SSR_Level3_des": "Emblazen increases flame boost by ???% and the burn tally multiplier to 150%.",
+        "Buff_FunnelFire_SSR_Level3_des_OS": "Emblazen increases flame boost by ???% and the burn tally multiplier to 75%.",
         "Buff_FunnelFire_SSR_Level4_des": "Increase the current weapon's base ATK growth by 32%.",
         "Buff_FunnelFire_SSR_Level5_des": "Restore an additional 75 points of weapon charge each time Spark Attack hits an enemy. Cooldown: 0.9 seconds. Shatter increases by 25% when Ultimate Heat is active.",
         "Buff_FunnelFire_SSR_Level6_des": "Emblazen boosts the damage of Spark Attack to ???% and doubles Heat acquisition efficiency. Skill cooldown drops to 16 seconds."

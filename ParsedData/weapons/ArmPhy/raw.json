@@ -2,6 +2,7 @@
     "weapon": {
         "Buff_ArmPhy_SSR_Level0": "Physical Resonance: Increase physical ATK by ???% and physical resistance by ???%. Activate by equipping 2 or more physical weapons. This set effect works in the off-hand slot. Cannot stack with other Physical Resonance or Physical Reaction effects, and Physical Resonance takes effect first.\r\nPhysical Benediction: Increase physical ATK by 5% when Benediction Resonance is activated.",
         "Buff_ArmPhy_SSR_Level0_Assitant_des": "Increase 12.5% Max HP for self and nearby teammates.",
+        "Buff_ArmPhy_SSR_Level0_Assitant_des_OS": "Increase 10% Max HP for self and nearby teammates.",
         "Buff_ArmPhy_SSR_Level0_Assitant_name": "Benediction Guard",
         "Buff_ArmPhy_SSR_Level0_Common_down50_des": "Increase Final Damage by 10% and Shatter by 10%.",
         "Buff_ArmPhy_SSR_Level0_Common_down50_name": "Balance Guard (Attack)",
@@ -22,7 +23,7 @@
         "Buff_ArmPhy_SSR_Level3_1_des": "Increase final damage by ???% for ??? seconds.",
         "Buff_ArmPhy_SSR_Level3_1_name": "Guard Damage Boost",
         "Buff_ArmPhy_SSR_Level4": "Increase the current weapon's base ATK growth by 32%.",
-        "Buff_ArmPhy_SSR_Level5": "Forgiveness Guard: After releasing Resonance 5 times, receive 1 chance to negate fatal damage for the user and the guarded target. After a teammate negates fatal damage, they will consume Forgiveness Guard and recover ???% of Max HP. Unavailable in Apex League.\r\nEnlightenment Guard: After releasing Resonance 5 times and when having Enlightenment Guard, the user receives 2 chances to negate fatal damage. Stack up to 5 times. After the user negates fatal damage, they will consume 1 stack of Enlightenment Guard and recover ???% of Max HP. Unavailable in Apex League.",
+        "Buff_ArmPhy_SSR_Level5": "Forgiveness Guard: After releasing Resonance 5 times, receive 1 chance to negate fatal damage for the wielder and the guarded target. After a teammate negates fatal damage, they will consume Forgiveness Guard and recover ???% of Max HP. Unavailable in Apex League.\r\nEnlightenment Guard: After releasing Resonance 5 times and when having Enlightenment Guard, the wielder receives 2 chances to negate fatal damage. Stack up to 5 times. After the wielder negates fatal damage, they will consume 1 stack of Enlightenment Guard and recover ???% of Max HP. Unavailable in Apex League.",
         "Buff_ArmPhy_SSR_Level5_1_des": "Upon taking fatal damage, consume 1 stack of Guard to negate the damage and recover ???% of the Max HP. Unavailable in Apex League.",
         "Buff_ArmPhy_SSR_Level5_1_name": "Guard Resonance Enhancement",
         "Buff_ArmPhy_SSR_Level6": "When unleashing any weapon skill or discharge, the increase of final damage and healing depends on the number of Guards. Each Guard increases final damage and healing by ???%, up to ???% for ??? seconds.",

@@ -4,7 +4,7 @@
         "Actor_GE_Buff_StavesIce_SSR_Level6_2_des": "Increase ATK by 15% when around a Healing Bee.",
         "Actor_GE_Buff_StavesIce_SSR_Level6_2_name": "6-Star Absolute Zero",
         "Buff_StavesIce_SSR_Level0_des": "Each attack fires 2 Energy Missiles at the target, dealing additional damage.",
-        "Buff_StavesIce_SSR_Level1_des": "After dodging, summon a healing bee that follows the user and heals the ally with the lowest percentage of HP within 15 meters. Heal for 25% of ATK and restore 50 weapon charge points each time and last for 25 seconds. Cooldown: 25 seconds.",
+        "Buff_StavesIce_SSR_Level1_des": "After dodging, summon a healing bee that follows the user and heals the ally with the lowest percentage of HP within 15 meters. Heal for 25% of ATK and restore 50 weapon charge points each time, lasts for 25 seconds. Cooldown: 25 seconds.",
         "Buff_StavesIce_SSR_Level2_des": "None",
         "Buff_StavesIce_SSR_Level3_des": "Use Sanctuary or discharge skills to remove debuffs from targets, can be used while being affected by control effects. Increase shatter and damage dealt for all teammates within range by 20%, and grant them immunity to control effects and shatter.",
         "Buff_StavesIce_SSR_Level4_des": "None",
