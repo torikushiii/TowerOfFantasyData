@@ -1,0 +1,1 @@
+### for beta branch go here [beta branch](https://github.com/torikushiii/TowerOfFantasyData/tree/beta)
