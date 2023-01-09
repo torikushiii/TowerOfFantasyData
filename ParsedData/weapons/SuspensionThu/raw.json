@@ -1,0 +1,13 @@
+{
+    "weapon": {
+        "Buff_SuspensionThu_SSR_Level0_des": "번개 공명: 번개 무기 2개 이상 장착 시 발동되며 번개 공격이 20% 증가하고, 번개 내성이 40% 증가합니다. 장착 시 무기 3종에 모두 적용됩니다.",
+        "Buff_SuspensionThu_SSR_Level0_name": "번개 공명",
+        "Buff_SuspensionThu_SSR_Level1_des": "스킬 '펄스록' 혹은 연계 '입자포 폭발'을 시전하면 1개의 전극을 생성하며 즉시 5단계의 연쇄 치료 강화 효과를 획득합니다. 동시에 연쇄 치료로 근처 아군 팀을 치료합니다(=개척자 135%×공격력).",
+        "Buff_SuspensionThu_SSR_Level3_des": "전극은 4.5초마다 일렉 서클을 1회 시전하며 최대 389%×공격력의 범위 피해를 입힙니다.",
+        "Buff_SuspensionThu_SSR_Level3_des_OS": "전극은 6초마다 일렉 서클을 1회 시전하며 최대 205%×공격력의 범위 피해를 입힙니다.",
+        "Buff_SuspensionThu_SSR_Level5_OS_des": "스킬 '펄스록'을 시전하면 자신의 공격이 (5+자신의 전극 수×5)% 증가하며 25초 동안 지속됩니다.",
+        "Buff_SuspensionThu_SSR_Level5_des": "스킬 '펄스록'을 시전하면 자신의 번개 공격이 (10+자신의 전극 수×10)% 증가하며 25초간 지속됩니다.",
+        "Buff_SuspensionThu_SSR_Level6_des": "동시에 최대 2개의 전극을 유지할 수 있습니다. 새로운 전극이 생성되면 자신과 거리가 더 먼 전극과 교체됩니다."
+    },
+    "matrix": {}
+}

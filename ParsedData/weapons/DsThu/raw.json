@@ -1,0 +1,14 @@
+{
+    "weapon": {
+        "Buff_DsThu_SSR_Level1_des": "목표의 등에 명중하면 쌍검의 모든 공격 치명타율이 40% 증가합니다. 감전 목표의 백어택 치명타율은 100% 증가하고 치명타 피해는 30% 증가합니다.",
+        "Buff_DsThu_SSR_Level3_des": "HP가 60% 이하인 목표에게 주는 피해가 30% 증가합니다.",
+        "Buff_DsThu_SSR_Level5_Crit4S": "공격이 반드시 치명타가 되며 치명타 피해가 50% 증가하고 4초 동안 지속됩니다.",
+        "Buff_DsThu_SSR_Level5_Damage_des": "피해가 20% 증가합니다.",
+        "Buff_DsThu_SSR_Level5_Speed": "이동속도가 25% 증가합니다.",
+        "Buff_DsThu_SSR_Level5_des": "백어택 발동 시 4초 동안 지속되는 확정 치명타 상태를 획득하며 치명타 피해가 50% 증가하고 재사용 대기시간은 10초입니다.",
+        "Buff_DsThu_SSR_Level6_1": "받는 번개 피해가 20% 증가합니다.",
+        "Buff_DsThu_SSR_Level6_des": "스킬을 시전하면 20초 동안 목표가 받는 번개 피해가 20% 증가합니다.",
+        "WeaponType_Trait_SSR_DsThu": "공격/번개"
+    },
+    "matrix": {}
+}

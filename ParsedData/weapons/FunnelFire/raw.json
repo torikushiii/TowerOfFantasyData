@@ -1,0 +1,23 @@
+{
+    "weapon": {
+        "Buff_FunnelFire_Level0_Energy_des": "최대 8포인트의 [열에너지]를 획득합니다. 최대치에 도달하면 플레이어는 [극한의 열에너지] 효과를 획득하며, [불꽃] 소멸 시 [열에너지] 수치가 사라집니다.",
+        "Buff_FunnelFire_Level0_Energy_name": "열에너지",
+        "Buff_FunnelFire_Level0_FireDamAdd_des": "25초 동안 화염 공격이 ???% 증가합니다.",
+        "Buff_FunnelFire_Level0_FireDamAdd_name": "극한의 열에너지",
+        "Buff_FunnelFire_SSR_Level0_Tubiao_des": "화염 무기 2개 이상 장착 시 발동되며 화염 공격이 20% 증가하고, 화염 내성이 40% 증가합니다. 장착 시 무기 3종에 모두 적용됩니다.",
+        "Buff_FunnelFire_SSR_Level0_Tubiao_name": "화염 공명",
+        "Buff_FunnelFire_SSR_Level0_des": "화염 공명: 화염 무기 2개 이상 장착 시 발동되며 화염 공격이 20% 증가하고, 화염 내성이 40% 증가합니다. 장착 시 무기 3종에 모두 적용됩니다.",
+        "Buff_FunnelFire_SSR_Level1_des": "[작열] 대상에게 스파크의 일반 공격의 피해가 ???%까지 증가하며 스킬 재사용 대기시간이 24초로 단축됩니다.",
+        "Buff_FunnelFire_SSR_Level2_des": "현재 무기의 기본 공격 성장률이 16% 증가합니다.",
+        "Buff_FunnelFire_SSR_Level3_1_des": "[작열] 유효 기간 동안 받는 화염 피해가 ???% 증가합니다.",
+        "Buff_FunnelFire_SSR_Level3_1_name": "화염 피해 증가",
+        "Buff_FunnelFire_SSR_Level3_2_des": "[극한의 열에너지] 지속 시간 동안 배리어 파괴가 25% 증가합니다.",
+        "Buff_FunnelFire_SSR_Level3_2_name": "배리어 파괴 증가",
+        "Buff_FunnelFire_SSR_Level3_des": "[작열] 상태에서 받는 화염 피해가 ???% 증가하며, 연소 효과의 결산 배율이 150%까지 증가합니다.",
+        "Buff_FunnelFire_SSR_Level3_des_OS": "[작열] 상태에서 받는 화염 피해가 ???% 증가하며, 연소 효과의 결산 배율이 75%까지 증가합니다.",
+        "Buff_FunnelFire_SSR_Level4_des": "현재 무기의 기본 공격 성장률이 32% 증가합니다.",
+        "Buff_FunnelFire_SSR_Level5_des": "스파크가 일반 공격으로 적군 유닛을 명중할 때마다 무기 충전량 75포인트를 추가 회복하며, 재사용 대기시간은 0.9초입니다. [극한 열에너지] 지속 시간 동안 배리어 파괴 효율이 25% 증가합니다.",
+        "Buff_FunnelFire_SSR_Level6_des": "[작열] 대상에게 스파크의 일반 공격의 피해가 ???%까지 증가하며 [열에너지]의 효율이 2배로 증가하고 스킬 재사용 대기시간이 16초로 단축됩니다."
+    },
+    "matrix": {}
+}

@@ -1,0 +1,27 @@
+{
+    "weapon": {
+        "Buff_SwordPhy_Phy_Resonance_Overseas_des": "물리 공명: 물리 원소 무기 2개 이상 장착 시 발동되며 물리 공격이 15% 증가하고, 물리 내성이 25% 증가합니다. 장착 시 무기 3종에 모두 적용되며, 같은 유형의 효과는 중첩되지 않습니다.",
+        "Buff_SwordPhy_Phy_Resonance_Overseas_name": "물리 공명",
+        "Buff_SwordPhy_SSR_Level0_des": "연속 공격 10회마다(여러 목표 1회 명중을 1회로 치며, 피해를 주는 간격이 5초 이내일 때 연속 공격이라고 합니다) 버프 1단계를 획득합니다. 최종 피해가 5% 증가하며 최대 3단계까지 중첩할 수 있고 25초 동안 지속됩니다(3단계 중첩 시 연속 공격할 때마다 지속 시간이 갱신됩니다).",
+        "Buff_SwordPhy_SSR_Level1_DamageUp_des": "피해가 ???% 증가하고 ???초 동안 지속되며 최대 3단계까지 중첩됩니다(스킬을 사용할 때마다 최대 1단계 중첩).",
+        "Buff_SwordPhy_SSR_Level1_DamageUp_name": "피해 증가",
+        "Buff_SwordPhy_SSR_Level1_des": "스킬을 시전하거나 연계 스킬로 목표를 명중하면, 1단계의 피해 증가 효과를 획득합니다. 피해가 ???% 증가하며, ???초 동안 지속됩니다. 최대 3단계까지 중첩할 수 있습니다(스킬을 시전하거나 연계 스킬을 사용할 때마다 최대 1단계 중첩).",
+        "Buff_SwordPhy_SSR_Level2_des": "아직 없음",
+        "Buff_SwordPhy_SSR_Level3_BeDamageUp_des": "물리 피해와 물리 원소의 무기 실드 파괴 효율이 ???% 증가하며 ???초 동안 지속되고 최대 1단계 중첩 가능합니다.",
+        "Buff_SwordPhy_SSR_Level3_BeDamageUp_name": "전투 피해",
+        "Buff_SwordPhy_SSR_Level3_des": "스킬을 시전하거나 연계 스킬로 목표를 명중하면 목표에게 '전투 피해' 효과를 부여합니다. 받는 물리 피해와 받는 물리 원소의 무기 실드 파괴 효율이 ???% 증가합니다. ???초 동안 지속되며, 최대 1단계 중첩할 수 있습니다.",
+        "Buff_SwordPhy_SSR_Level4_des": "아직 없음",
+        "Buff_SwordPhy_SSR_Level5_OS_des": "스킬 또는 연계 스킬로 목표를 명중하면 '피해 증가'를 획득하여 전체 피해가 20% 증가합니다. 25초 동안 지속되며, 중첩되지 않습니다.",
+        "Buff_SwordPhy_SSR_Level5_SkillDamageUp_OS_des": "스킬 피해가 20% 증가하며 25초 동안 지속됩니다.",
+        "Buff_SwordPhy_SSR_Level5_SkillDamageUp_OS_name": "피해 증가",
+        "Buff_SwordPhy_SSR_Level5_SkillDamageUp_des": "모든 무기의 스킬 피해는 ???% 증가하며 ???초 동안 지속됩니다.",
+        "Buff_SwordPhy_SSR_Level5_SkillDamageUp_name": "스킬 피해 증가",
+        "Buff_SwordPhy_SSR_Level5_des": "스킬을 시전하거나 연계 스킬로 목표를 명중하면 '스킬 피해 증가' 효과를 획득합니다. 모든 무기의 스킬 피해가 ???% 증가하며, ???초 동안 지속되며 중첩되지 않습니다.",
+        "Buff_SwordPhy_SSR_Level6_BeDamageUp_des": "물리 피해와 물리 원소의 무기 실드 파괴 효율이 ???% 증가하며 ???초 동안 지속되고 최대 2단계 중첩 가능합니다.",
+        "Buff_SwordPhy_SSR_Level6_BeDamageUp_name": "전투 피해II",
+        "Buff_SwordPhy_SSR_Level6_des": "스킬로 같은 목표를 명중할 시 피해가 더는 감소하지 않습니다. 홍련검 스킬 혹은 연계 사용 시 8미터 범위 내 '전투 피해' 효과를 가지고 있는 적군 목표에게 다시 이 효과를 1단계 중첩시킵니다.",
+        "WeaponType_Trait_SR_BigSwordPhy": "근거리/공격/물리",
+        "WeaponType_Trait_SSR_SwordPhy": "공격/물리"
+    },
+    "matrix": {}
+}

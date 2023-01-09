@@ -1,0 +1,19 @@
+{
+    "weapon": {
+        "Buff_DartsPhy_SSR_Level0_des": "회피나 스킬을 사용한 후 3초 이내에 하는 다음 일반 공격이 반드시 치명타가 됩니다.",
+        "Buff_DartsPhy_SSR_Level1_des": "스킬 영롱한 하늘 범위 안의 목표가 받는 피해와 전체 원소 실드 파괴 효과가 30% 증가합니다.",
+        "Buff_DartsPhy_SSR_Level2_des": "아직 없음",
+        "Buff_DartsPhy_SSR_Level3_DownCD_30s_des": "목표의 실드를 파괴하면 모든 무기 스킬의 재사용 대기시간이 제거되며 30초에 1회 발동합니다.",
+        "Buff_DartsPhy_SSR_Level3_DownCD_30s_name": "바다의 차크람-3성 효과",
+        "Buff_DartsPhy_SSR_Level3_des": "실드 파괴 효율이 15% 증가하고 목표의 실드를 파괴한 후 모든 무기 스킬의 재사용 대기시간이 제거되며 30초에 1회 발동합니다.",
+        "Buff_DartsPhy_SSR_Level4_30Ceng_des": "치명타는 개조 효과 1단계를 획득하며 30단계까지 중첩할 수 있어 0.5초 간격으로 발동하여 스킬영롱한 하늘의 재사용 대기시간을 제거할 수 있습니다.",
+        "Buff_DartsPhy_SSR_Level4_30Ceng_name": "풀문 4스타 업그레이드",
+        "Buff_DartsPhy_SSR_Level4_des": "아직 없음",
+        "Buff_DartsPhy_SSR_Level5_SkillDamageUp_des": "스킬 영롱한 하늘을 사용하면 피해가 10% 증가하며 최대 3단계까지 중첩할 수 있고 15초 동안 지속됩니다.",
+        "Buff_DartsPhy_SSR_Level5_SkillDamageUp_name": "풀문 5스타 업그레이드",
+        "Buff_DartsPhy_SSR_Level5_des": "중상 상태인 목표에 명중하면 중상 지속 시간이 추가로 7초 증가하며 동일한 효과는 최대 1회만 적용됩니다.",
+        "Buff_DartsPhy_SSR_Level6_des": "스킬 영롱한 하늘을 사용하면 8초 이내에 반드시 치명타를 입힙니다.",
+        "WeaponType_Trait_SSR_DartsPhy": "공격/물리/원거리"
+    },
+    "matrix": {}
+}

@@ -1,0 +1,20 @@
+{
+    "weapon": {
+        "Buff_BowIce_Level1_2_des": "단계마다 피해가 8% 증가하고 최대 3단계까지 적용되며 15초 동안 지속됩니다.",
+        "Buff_BowIce_Level1_2_des_OS": "단계마다 피해가 5% 증가하고 최대 3단계까지 적용되며 15초 동안 지속됩니다.",
+        "Buff_BowIce_Level1_2_name": "예리한 화살",
+        "Buff_BowIce_Level1_des": "공격을 회피하고 화살이 목표를 명중할 때마다 '예리한 화살' 효과 1단계를 획득합니다. 단계마다 피해가 8% 증가하고 최대 3단계까지 적용되며 15초 동안 지속됩니다.",
+        "Buff_BowIce_Level3_des": "회피 공격으로 차지 화살 3개를 발사합니다.",
+        "Buff_BowIce_Level5_1_des": "50% 감속",
+        "Buff_BowIce_Level5_1_name": "감속",
+        "Buff_BowIce_Level5_des": "화살비 지속 시간이 2배로 연장되고 속도가 25% 감소합니다.",
+        "Buff_BowIce_Level6_2_des": "단계마다 피해가 8% 증가하고 최대 5단계까지 적용되며 15초 동안 지속됩니다.",
+        "Buff_BowIce_Level6_2_des_OS": "단계마다 피해가 5% 증가하고 최대 5단계까지 적용되며 15초 동안 지속됩니다.",
+        "Buff_BowIce_Level6_2_name": "예리한 화살",
+        "Buff_BowIce_Level6_des": "'예리한 화살'은 5단계까지 중첩됩니다. 차지 화살로 목표를 명중하면 3단계를 즉시 획득하며, 머리 부분을 명중하면 5단계를 획득합니다.",
+        "Buff_BowIce_SSR_Level0_1_des": "예리한 화살II: 최종 피해가 4% 증가하고 15초 동안 지속됩니다. 예리한 화살II은 최대 3단계까지 적용됩니다.",
+        "Buff_BowIce_level1_des_OS": "공격을 회피하고 화살이 목표를 명중할 때마다 '예리한 화살' 1단계 효과를 획득합니다. 단계마다 피해가 5% 증가하고 최대 3단계까지 적용되며 15초 동안 지속됩니다.",
+        "WeaponType_Trait_SSR_BowIce": "공격/얼음"
+    },
+    "matrix": {}
+}

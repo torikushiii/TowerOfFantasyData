@@ -1,0 +1,19 @@
+{
+    "weapon": {
+        "Buff_SickleFire_SSR_Level0_1_des": "최종 피해가 10%  30초 동안 지속되며 최대 3단계까지 중첩됩니다.",
+        "Buff_SickleFire_SSR_Level0_1_name": "피해 증가",
+        "Buff_SickleFire_SSR_Level0_des": "공격과 동시에 적군 3명 이상을 명중하면 피해 증가 효과를 획득해 최종 피해가 10% 증가하고 30초 동안 지속됩니다. 피해 증가 효과는 최대 3단계까지 중첩됩니다.",
+        "Buff_SickleFire_SSR_Level1_1_des": "최종 피해가 10% 증가하며 30초 동안 지속됩니다.",
+        "Buff_SickleFire_SSR_Level1_1_name": "배리어 파괴 피해 증가",
+        "Buff_SickleFire_SSR_Level1_des": "실드 파괴 효율이 15% 증가합니다. 목표의 실드를 파괴한 후 목표에게 1초마다 공격 120%의 연소 피해를 입히며 15초간 지속됩니다.",
+        "Buff_SickleFire_SSR_Level2_des": "아직 없음",
+        "Buff_SickleFire_SSR_Level3_des": "주위 6미터 내에 적군이 1명 존재할 때마다 피해가 10% 증가하며 최대 30%까지 증가합니다.",
+        "Buff_SickleFire_SSR_Level4_des": "아직 없음",
+        "Buff_SickleFire_SSR_Level5_des": "HP 실드가 있는 목표나 실드 상태인 몬스터에게 주는 피해가 100% 증가합니다.",
+        "Buff_SickleFire_SSR_Level6_DamageUp_des": "목표를 처치할 때마다 자신의 피해가10% 증가하며 30초 동안 지속되고 최대 3단계까지 중첩됩니다.",
+        "Buff_SickleFire_SSR_Level6_DamageUp_name": "디재스터의 파워",
+        "Buff_SickleFire_SSR_Level6_des": "목표를 처치할 때마다 자신의 피해가10% 증가하며 최대 3단계까지 중첩되고 30초 동안 지속됩니다.",
+        "WeaponType_Trait_SSR_SickleFire": "공격/화염"
+    },
+    "matrix": {}
+}

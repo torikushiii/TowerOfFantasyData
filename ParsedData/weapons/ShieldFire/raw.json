@@ -1,0 +1,17 @@
+{
+    "weapon": {
+        "Buff_ShieldFire_SSR_Level1_des": "연계-그레이트 앵거를 시전하여 '방패' 1단계를 획득하고, 실드 상태에서 회피 스킬/파생 스킬을 사용하면 '방패' 1단계를 획득하며, 최대 3단계까지 중첩할 수 있습니다. 단계마다 10%의 피해 감소 효과를 제공하며, 15초 동안 지속됩니다. 도끼 형태로 변경하면 '방패'가 '예리한 도끼'로 전환됩니다. '예리한 도끼'는 단계마다 15%의 피해가 증가하며 15초 동안 지속됩니다.(다른 무기로 변경 시 효과 소멸).",
+        "Buff_ShieldFire_SSR_Level2_des": "아직 없음",
+        "Buff_ShieldFire_SSR_Level3_des": "방패 상태에서 파생/회피 공격으로 목표를 명중하면 현재 HP 4%에 해당하는 추가 피해를 1회 줍니다.",
+        "Buff_ShieldFire_SSR_Level4_des": "아직 없음",
+        "Buff_ShieldFire_SSR_Level5_CD_des": "재사용 대기시간은 30초입니다.",
+        "Buff_ShieldFire_SSR_Level5_CD_name": "몰트 방패 V2 5성-재사용 대기시간",
+        "Buff_ShieldFire_SSR_Level5_Effect_des": "방패 도끼로 변경 즉시 피해가 30% 감소하고 이후에는 3초마다 10%씩 감소하여 최대 10%까지 감소합니다. 다른 무기로 변경하면 사라지며 재사용 대기시간은 30초입니다.",
+        "Buff_ShieldFire_SSR_Level5_Effect_name": "몰트 방패 V2 5성-효과",
+        "Buff_ShieldFire_SSR_Level5_Start_Breakfate_des": "방패 도끼로 변경 즉시 피해가 15% 감소하고 이후에는 3초마다 5%씩 감소하여 최대 5%까지 감소합니다. 다른 무기로 변경하면 사라지며 재사용 대기시간은 30초입니다.",
+        "Buff_ShieldFire_SSR_Level5_des": "방패 도끼로 변경 즉시 피해가 30% 감소하고 이후에는 3초마다 10%씩 감소하여 최대 10%까지 감소합니다. 다른 무기로 변경하면 사라지며 재사용 대기시간은 30초입니다.",
+        "Buff_ShieldFire_SSR_Level6_des": "무기 전환 스킬을 강화합니다.\r\n'도끼로 전환' 강화: 스킬 피해가 60% 증가하며 화염 지대의 범위가 30% 확대됩니다.\r\n'방패로 전환' 강화: '도끼로 전환'과 재사용 대기시간을 공유하지 않으며, 스킬 사용 후 5초 이내에 받은 모든 피해가 자신의 HP로 전환됩니다(최대 HP의 15%까지 전환 가능).",
+        "Buff_ShieldFire_SSR_Level6_name": "무기 강화"
+    },
+    "matrix": {}
+}

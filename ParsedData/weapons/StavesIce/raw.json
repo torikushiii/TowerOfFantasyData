@@ -1,0 +1,17 @@
+{
+    "weapon": {
+        "Actor_GE_Buff_StavesIce_SSR_Level6_2_OS_des": "치유 꿀벌 주변의 전체 피해와 치료 효과가 15% 증가합니다.",
+        "Actor_GE_Buff_StavesIce_SSR_Level6_2_des": "치유 꿀벌 주변의 공격력이 15% 증가합니다.",
+        "Actor_GE_Buff_StavesIce_SSR_Level6_2_name": "스카디-6성",
+        "Buff_StavesIce_SSR_Level0_des": "공격할 때마다 에너지 로켓 2개를 수반하여 목표에 피해를 줍니다.",
+        "Buff_StavesIce_SSR_Level1_des": "회피를 사용하면 자신을 따르는 치유 꿀벌 1마리를 소환합니다. 치유 꿀벌은 15미터 범위 내에 HP 비율이 가장 낮은 팀원을 치료할 수 있습니다. 매 회 치료량은 공격력의 25%에 해당하는 HP이며 무기 충전량 50포인트를 회복합니다. 치유 꿀벌은 25초 동안 지속되며 소환 재사용 대기시간은 25초입니다.",
+        "Buff_StavesIce_SSR_Level2_des": "아직 없음",
+        "Buff_StavesIce_SSR_Level3_des": "보호 스킬 혹은 연계 스킬로 목표를 상태 이상에서 해제할 수 있으며, 제어된 상태에서도 발동할 수 있습니다. 범위 내에 있는 모든 팀원의 실드 파괴 효율과 피해가20% 증가하며 제어와 실드 파괴 효과에 면역이 있습니다.",
+        "Buff_StavesIce_SSR_Level4_des": "아직 없음",
+        "Buff_StavesIce_SSR_Level5_des": "치료 효과가 15% 증가하고 HP가 60% 이하인 목표에 대해서는 20% 추가 증가합니다.",
+        "Buff_StavesIce_SSR_Level6_OS_des": "치유 꿀벌 소환 및 소실 시 전체 아군 팀을 1회 치료하며 치료량은 공격력의 100%입니다. 치유 꿀벌 10미터 이내에 있는 아군 팀은 모든 피해 및 치료 효과가 15% 증가하며 이 효과는 중첩되지 않습니다.",
+        "Buff_StavesIce_SSR_Level6_des": "치유 꿀벌 소환 및 소실 시 전체 아군 팀을 1회 치료하며 치료량은 공격력의 100%입니다. 치유 꿀벌 10미터 이내에 있는 아군 팀은 공격이 15% 증가하며 이 효과는 중첩되지 않습니다.",
+        "WeaponType_Trait_SSR_StavesIce": "보조/얼음"
+    },
+    "matrix": {}
+}

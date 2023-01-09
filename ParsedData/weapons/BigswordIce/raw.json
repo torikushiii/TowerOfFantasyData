@@ -1,0 +1,31 @@
+{
+    "weapon": {
+        "Buff_BigswordIce_Level1_des": "실드 파괴 효율이 15% 증가하며 목표의 실드를 파괴한 후 10%의 HP가 회복됩니다.",
+        "Buff_BigswordIce_Level3_1_des": "최대 HP 10%에 해당하는 얼음 실드를 획득하며 10초 동안 지속됩니다.",
+        "Buff_BigswordIce_Level3_1_name": "얼음 방패",
+        "Buff_BigswordIce_Level3_2_des": "얼음 실드 재사용 대기시간은 20초입니다.",
+        "Buff_BigswordIce_Level3_2_name": "얼음 실드-재사용 대기시간",
+        "Buff_BigswordIce_Level3_des": "이 무기로 변경하면 최대 HP 10%에 해당하는 얼음 실드를 획득하며 재사용 대기시간은 20초입니다. 얼음 실드는 최대 10초간 지속됩니다.",
+        "Buff_BigswordIce_Level5_des": "HP 실드 발동 중 피해와 실드 파괴 효율이 50% 증가합니다.",
+        "Buff_BigswordIce_Level6_1_des": "최대 HP 20%에 해당하는 얼음 실드를 획득하며, 10초 동안 지속됩니다.",
+        "Buff_BigswordIce_Level6_1_name": "얼음 방패",
+        "Buff_BigswordIce_Level6_2_des": "얼음 실드 재사용 대기시간은 20초입니다.",
+        "Buff_BigswordIce_Level6_2_name": "얼음 실드-재사용 대기시간",
+        "Buff_BigswordIce_Level6_des": "이 무기로 변경하면 최대 HP 20%에 해당하는 얼음 실드를 획득하며 실드 발동 중 제어 면역 상태가 됩니다. 재사용 대기시간은 20초이며, 얼음 실드는 최대 10초간 지속됩니다.",
+        "Buff_BigswordIce_SSR_Level0_1_des": "10초 동안 개척자의 최대 HP 10%에 해당하는 얼음 실드를 획득합니다.",
+        "Buff_BigswordIce_SSR_Level0_1_name": "얼음 방패",
+        "Buff_BigswordIce_SSR_Level0_des": "이 무기로 변경 시 최대 HP 10%인 실드를 획득하고 10초 동안 지속되며 재사용 대기시간은 60초입니다.",
+        "Buff_BigswordIce_SSR_Level1_des": "방어 유형 무기를 2개 이상 장착하면 받는 피해가 5% 감소합니다. 장착 즉시 효과가 발동하며 여러 무기를 중첩하여 사용할 수 있습니다. 팀 플레이에서는 효과가 상승하며 원한치가 증가합니다.",
+        "Buff_BigswordIce_SSR_Level2_1_des": "이 무기로 변경하면 10초 동안 최대 HP의 20%에 해당하는 얼음 실드를 획득하며 경직 면역 효과를 받습니다. 재사용 대기시간은 60초입니다.",
+        "Buff_BigswordIce_SSR_Level2_1_name": "얼음 방패",
+        "Buff_BigswordIce_SSR_Level2_des": "이 무기로 변경하면 10초 동안 최대 HP의 20%에 해당하는 얼음 실드를 획득하며 경직 면역 효과를 받습니다. 재사용 대기시간은 60초입니다.",
+        "Buff_BigswordIce_SSR_Level3_des": "얼음 피해 10% 감소",
+        "Buff_BigswordIce_SSR_Level4_1_des": "이 무기로 변경하면 10초 동안 최대 HP 20%에 해당하는 얼음 실드를 획득하며 경직 및 제어 면역 효과를 받고, 최종 피해가 30% 증가합니다. 재사용 대기시간은 60초입니다.",
+        "Buff_BigswordIce_SSR_Level4_1_name": "얼음 방패",
+        "Buff_BigswordIce_SSR_Level4_des": "실드 발동 중에는 제어 면역 효과가 부여되며 최종 피해가 30% 증가합니다.",
+        "Buff_BigswordIce_SSR_Level5_1_des": "15초 동안 받는 얼음 피해가 20% 증가합니다.",
+        "Buff_BigswordIce_SSR_Level5_1_name": "얼음 피해",
+        "Buff_BigswordIce_SSR_Level5_des": "연계 스킬이 목표에 명중하면 목표는 15초 동안 추가로 20% 얼음 피해를 받습니다."
+    },
+    "matrix": {}
+}
